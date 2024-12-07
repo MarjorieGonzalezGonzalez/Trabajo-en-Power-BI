@@ -1,0 +1,1 @@
+En esta carpeta encontraras un power bi , ppt  e informe, relacionado al analisis del sueldo base y reloj control horaa extras datos proporcionados ficticiamente por el profesor de visualizacion de datos.
